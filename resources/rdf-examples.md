@@ -73,20 +73,7 @@ WHERE {
 }
 ```
 
-### 4) SPARQL: Multiple Statements
-
-```js
-PREFIX dbo: <http://dbpedia.org/ontology/>
-PREFIX dbr: <http://dbpedia.org/resource/>
-
-SELECT DISTINCT ?person
-WHERE {
-    ?person dbo:birthPlace dbr:Vienna .
-    ?person dbo:deathPlace dbr:Vienna .
-}
-```
-
-#### 5) SPARQL: Projection
+### 5) SPARQL: Projection
 
 ```js
 PREFIX dbo: <http://dbpedia.org/ontology/>
