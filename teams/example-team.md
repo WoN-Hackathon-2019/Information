@@ -5,7 +5,7 @@ Organization: [researchstudio-sat](https://github.com/researchstudio-sat)
 Members:
 * https://github.com/fkleedorfer
 * https://github.com/sigpie
-* https://github.com/quasarchamaere
+* https://github.com/quasarchimaere
 * https://github.com/peacememories
 * https://github.com/maxstolze
 
