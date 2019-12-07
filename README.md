@@ -1,5 +1,9 @@
 # Information
-Repository for general information, documentation and overall comments
+Repository for general information, documentation and overall comments.
+
+Please join our slack channel #won-hackathon-2019
+
+[![Join the chat at https://join.slack.com/t/webofneeds/shared_invite/enQtNzc0NjM0MzY3NTIyLTMwZmY1YTljMjMzYjJhMjJkYjYxM2MyMDdmMjU4ZTE4MDM4NWFiNDJiNWMyZGNjYTliYjA4NWYzY2RjMGY5YWE](https://img.shields.io/badge/slack-join%20chat-informational.svg)](https://join.slack.com/t/webofneeds/shared_invite/enQtNzc0NjM0MzY3NTIyLTMwZmY1YTljMjMzYjJhMjJkYjYxM2MyMDdmMjU4ZTE4MDM4NWFiNDJiNWMyZGNjYTliYjA4NWYzY2RjMGY5YWE)
 
 # Preparation
 Things you'll need:
