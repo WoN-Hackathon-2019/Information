@@ -7,7 +7,7 @@ Please join our slack channel #won-hackathon-2019
 
 # Preparation
 Things you'll need:
-* Java 8 (other versions may not work)
+* Java 8 (other versions may not work) - For running a bot, you'll need OpenJDK 8 (standard on linux, Windows installer can be found at [AdoptOpenJdk.net](https://adoptopenjdk.net/index.html). 
 * Maven
 * Git
 * Some java development enviroment (Eclipse or Intellij, or do you have a better one?)
