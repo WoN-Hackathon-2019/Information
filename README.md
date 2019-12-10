@@ -19,4 +19,4 @@ Overview of the projects the teams are working on.
 
 Please add one bullet point for each of your projects and describe them in a little more detail in your team page.
 
-* [**Example project**](teams/example-team.md#example-project): this is just an example to give you an idea of what your entry should look like and where you should link to.
+* [**AirQualityBot**](teams/air-quality-bot.md#airqualitybot-1): A [WebOfNeeds](https://github.com/researchstudio-sat/webofneeds)-Bot to regularly fetch air quality data from https://docs.openaq.org/ and publish them as WoN-atoms to a WoN-node.
