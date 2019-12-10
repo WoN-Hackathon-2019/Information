@@ -1,6 +1,7 @@
 # Example Team
 
-Organization: [researchstudio-sat](https://github.com/researchstudio-sat)
+Team: [researchstudio-sat](https://github.com/orgs/WoN-Hackathon-2019/teams/)
+TODO change to your actual team name and link
 
 Members:
 * https://github.com/fkleedorfer
