@@ -4,7 +4,7 @@ Possible Extensions:
 * A Chat-Bot like version, where you can write the locations as a message and get the venue as a message back.
 * More than 2 locations
 
-[**Repository**](https://raw.githubusercontent.com/WoN-Hackathon-2019/won-meetingbot/master/README.md)
+[**Repository**](https://github.com/WoN-Hackathon-2019/won-meetingbot)
 
 ## Members
 * [Alexander Melem](https://github.com/melemalex)
