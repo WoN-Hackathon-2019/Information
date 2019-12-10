@@ -23,3 +23,4 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**InternationalChatBot**](teams/international-chat-bot.md): Allows you to connect to a chat partner anywhere in the world and translates the messages to the corresponding language of the receiver.
 * [**TranslateBot**](teams/translatebot.md): Translates messages from one language to another to deliver the translation needed for InternationalChatBot
 * [**BookPileBot**](teams/book-pile-bot.md): Reacts to book-related atoms, searches on the Buecherein Wien website for books and creates new atoms from the result(s)
+* [**BookMatchBot**](teams/book-match-bot.md): Matches book-related atoms for renting/renting out or buying/selling books and hints the respective owners
