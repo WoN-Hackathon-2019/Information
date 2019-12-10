@@ -22,3 +22,4 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**AirQualityBot**](teams/air-quality-bot.md#airqualitybot-1): A [WebOfNeeds](https://github.com/researchstudio-sat/webofneeds)-Bot to regularly fetch air quality data from https://docs.openaq.org/ and publish them as WoN-atoms to a WoN-node.
 * [**InternationalChatBot**](teams/international-chat-bot.md): Allows you to connect to a chat partner anywhere in the world and translates the messages to the corresponding language of the receiver.
 * [**TranslateBot**](teams/translatebot.md): Translates messages from one language to another to deliver the translation needed for InternationalChatBot
+* [**BookPileBot**](teams/bookpilebot.md): Reacts to book-related atoms, searches on the Buecherein Wien website for books and creates new atoms from the result(s)
