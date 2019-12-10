@@ -11,6 +11,7 @@ Members:
 # Projects
 ## AirQualityBot
 [AirQualityBot Repository](https://github.com/WoN-Hackathon-2019/won-airqualitybot)
+
 A [WebOfNeeds](https://github.com/researchstudio-sat/webofneeds)-Bot to regularly fetch air quality data from https://docs.openaq.org/ and publish them as WoN-atoms to a WoN-node.
 
 
