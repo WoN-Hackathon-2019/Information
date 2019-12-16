@@ -27,4 +27,4 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**PollCreaterBot**](teams/poll-creator-bot.md): Creates a new strawpoll.me. All required information is collected via an interactive chat with the bot.
 * [**PollVoteBot**](teams/poll-vote-bot.md): Allows the user to vote for a strawpoll.me poll. The user can choose the option to vote for via an interactive chat with the bot.
 * [**MeetingBot**](teams/meeting-bot.md): Given multiple locations (the locations of the interaction partners) we find you a venue for a meeting near the halfway point between you. 
-
+* [**LocationInformationBot**](teams/LocationInformation-Bot.md): Given a location of desire and the tag "locationinformation", the bot provides useful information about that location. Including, but not limited to: country name, region, capital, interesting locations.
