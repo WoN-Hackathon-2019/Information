@@ -3,6 +3,8 @@ Organization: researchstudio-sat (https://github.com/researchstudio-sat)
 Members:
 
 https://github.com/Fefe96
+https://github.com/Tr4in
+https://github.com/HNieme
 
 Projects
 
