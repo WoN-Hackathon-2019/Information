@@ -3,8 +3,8 @@ Matches book-realated atoms for renting/renting out or buying/selling books and 
 
 # Members
 
-* Benedikt Fuchs (https://github.com/helpmefindaname)
-* Iris Fiedler (https://github.com/IrisFI)
+* [Benedikt Fuchs](https://github.com/helpmefindaname)
+* [Iris Fiedler](https://github.com/IrisFI)
 
 # Cooperations
 
