@@ -2,9 +2,11 @@ Organization: researchstudio-sat (https://github.com/researchstudio-sat)
 
 Members:
 
-https://github.com/Fefe96
-https://github.com/Tr4in
-https://github.com/HNieme
+https://github.com/Fefe96 Felix Li
+
+https://github.com/Tr4in Aleksandar Markovic
+
+https://github.com/HNieme Harald Niemeczek
 
 Projects
 
