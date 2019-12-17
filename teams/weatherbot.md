@@ -12,7 +12,7 @@ Projects
 
 Our WeatherBot collects weather data from cities.
 
-Link to project: https://github.com/won-WeatherBot
+Link to project: https://github.com/WoN-Hackathon-2019/won-WeatherBot
 
 Cooperations
 We will cooperate with the project team "PollutionWarningBot". We will be using the data their bot provides about the air pollution.
