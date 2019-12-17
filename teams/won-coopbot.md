@@ -20,5 +20,5 @@ We create a groupchat bot, that is able to find the nearest place for meetup and
 We created a simple utils-project to parse string commands conveniently.
 
 # Cooperations
-We cooperate with the [**MeetingBot**](teams/meeting-bot.md) to find the ideal spot to meet.
+We cooperate with the [**MeetingBot**](meeting-bot.md) to find the ideal spot to meet.
 For voting for the best place to play football we cooperate with the PollCreateBot (https://github.com/WoN-Hackathon-2019/won-pollcreaterbot)
