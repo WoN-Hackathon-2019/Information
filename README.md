@@ -29,3 +29,4 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**MeetingBot**](teams/meeting-bot.md): Given multiple locations (the locations of the interaction partners) we find you a venue for a meeting near the halfway point between you. 
 * [**LocationInformationBot**](teams/LocationInformation-Bot.md): Given a location of desire and the tag "locationinformation", the bot provides useful information about that location. Including, but not limited to: country name, region, capital, interesting locations.
 * [**PollutionWarningBot**](teams/PollutionWarningBot.md): The PolutionWarningBot evaluates the air quality based on the air´s chemical components and determines whether the given results are critical or within a normal range.
+* [**CoopBot**](teams/won-coopbot.md): Bot that creates new group chats, to find the best meeting place for all group members. Uses the MeetingBot to find the best place.
