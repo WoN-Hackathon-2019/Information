@@ -17,3 +17,5 @@ You can interact with the bot in two ways:
 # Cooperations
 The [BookMatchBot](https://github.com/orgs/WoN-Hackathon-2019/teams/bookmatchbot)
 uses our generated atoms to match with user generated atoms searching for books.
+
+Further more, we used their BookAtomModelWrapper and extended it.
