@@ -30,3 +30,4 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**LocationInformationBot**](teams/LocationInformation-Bot.md): Given a location of desire and the tag "locationinformation", the bot provides useful information about that location. Including, but not limited to: country name, region, capital, interesting locations.
 * [**PollutionWarningBot**](teams/PollutionWarningBot.md): The PolutionWarningBot evaluates the air quality based on the air´s chemical components and determines whether the given results are critical or within a normal range.
 * [**CoopBot**](teams/won-coopbot.md): Bot that creates new group chats, to find the best meeting place for all group members. Uses the MeetingBot to find the best place.
+* [**WeatherBot**](teams/weatherbot.md): Bot pulls weather data from OpenWeatherAPI and offers its various parameters as an Atom. 
