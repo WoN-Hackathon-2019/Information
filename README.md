@@ -27,7 +27,7 @@ Please add one bullet point for each of your projects and describe them in a lit
 * [**PollCreaterBot**](teams/poll-creator-bot.md): Creates a new strawpoll.me. All required information is collected via an interactive chat with the bot.
 * [**PollVoteBot**](teams/poll-vote-bot.md): Allows the user to vote for a strawpoll.me poll. The user can choose the option to vote for via an interactive chat with the bot.
 * [**MeetingBot**](teams/meeting-bot.md): Given multiple locations (the locations of the interaction partners) we find you a venue for a meeting near the halfway point between you. 
-* [**LocationInformationBot**](teams/LocationInformation-Bot.md): Given a location of desire and the tag "locationinformation", the bot provides useful information about that location. Including, but not limited to: country name, region, capital, interesting locations.
+* [**LocationInformationBot**](teams/LocationInformation-Bot.md): Given a location of desire and the tag "locationinformation", the bot provides useful information about that location. Including, but not limited to: country name, region, capital, interesting locations. Coop with [TranslateBot](teams/translatebot.md) for additional info, like "hello" in the locations language.
 * [**PollutionWarningBot**](teams/PollutionWarningBot.md): The PolutionWarningBot evaluates the air quality based on the air´s chemical components and determines whether the given results are critical or within a normal range.
 * [**CoopBot**](teams/won-coopbot.md): Bot that creates new group chats, to find the best meeting place for all group members. Uses the MeetingBot to find the best place.
 * [**WeatherBot**](teams/weatherbot.md): Bot pulls weather data from OpenWeatherAPI and offers its various parameters as an Atom. 
